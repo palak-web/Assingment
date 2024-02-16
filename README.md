@@ -1,4 +1,4 @@
-# Assingment
+# Assignment
 ##First, initialize the project by creating a new folder and running the following commands:
 
 npm init -y npm install express sequelize pg pg-hstore body-parser cors axios
